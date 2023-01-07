@@ -113,7 +113,6 @@ header#header {
     font-weight: 500;
     border: 1px solid #005fac;
     border-radius: 8px;
-    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -451,3 +450,70 @@ ul.F_Sec_List li i {
 }
 
 /* Blog Section End */
+
+
+
+/* Footer Start */
+
+#footer {
+    background-color: #151414;
+    color: #f8f8f8;
+    padding: 90px 0px 50px;
+}
+
+.foot_Contnt_Wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.foot_Contnt_Wrap .contact_info {
+    width: 50%;
+}
+
+.foot_Contnt_Wrap .subscribe_box {
+    width: 25%;
+}
+
+.contact_info h2 {
+    font-size: 40px;
+}
+
+.contact_info p {
+    color: #e7e7e7;
+    font-size: 13px;
+    padding-right: 185px;
+}
+
+.contact_info_p2 {
+    margin-top: 40px;
+}
+
+.social_links a {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.social_links {
+    margin-top: 40px;
+}
+
+.subscribe_box h3 {
+    font-size: 27px;
+}
+
+.subscribe_box form input {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 16px;
+    padding-left: 15px;
+    border-radius: 9px;
+}
+
+
+/* Footer End */
