@@ -198,3 +198,56 @@ ul.F_Sec_List li i {
 }
 
 /* My Failures Section End */
+
+
+
+/* My Plans Section Start */
+
+.SecTitle h2 {
+    font-size: 35px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 70px;
+    margin-top: 0;
+}
+
+.Plans_Wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Plans_Wrapper > div {display: flex;flex-direction: column;align-items: center;justify-content: center;}
+
+.Plans_Wrapper div {
+}
+
+.plan_txt {
+    text-align: center;
+}
+
+.plan_txt h3 {
+    font-size: 22px;
+    margin: 20px 0px 0px 0px;
+    color: #151414;
+    font-weight: 900;
+}
+
+.plan_txt p {
+    margin: 18px 0px 20px 0px;
+    font-size: 16px;
+    color: #737272;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.plan_Icon {
+    width: 75px;
+    height: 75px;
+}
+
+.plan_Icon img {
+    width: 100%;
+}
+
+/* My Plans Section End */
