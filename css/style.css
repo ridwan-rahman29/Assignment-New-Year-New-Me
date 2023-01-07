@@ -137,6 +137,64 @@ header#header {
 
 /* My Failures Section Start */
 
+#Failures_Section {
+    padding: 140px 0px;
+}
 
+.failures_Section_Content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 40px;
+}
+
+.F_Sec_Img {
+    width: 60%;
+    margin-right: 70px;
+}
+
+.F_Sec_Img img {
+    width: 100%;
+}
+
+.F_Sec_Txt {
+    width: 80%;
+}
+
+.F_Sec_Txt h3 {
+    color: #151414;
+    font-size: 30px;
+    margin: 0;
+}
+
+.F_Sec_Txt {
+    width: 80%;
+    margin-top: 100px;
+}
+
+.F_Sec_Txt h3 {
+    color: #151414;
+    font-size: 30px;
+    margin: 0;
+}
+
+.F_Sec_Txt p {
+    color: #757575;
+    font-size: 14px;
+    padding: 0px 275px 0px 0px;
+    line-height: 21px;
+}
+
+ul.F_Sec_List li {
+    margin-bottom: 13px;
+    font-size: 14px;
+    color: #757575;
+}
+
+ul.F_Sec_List li i {
+    color: #1ed98b;
+    margin-right: 4px;
+}
 
 /* My Failures Section End */
