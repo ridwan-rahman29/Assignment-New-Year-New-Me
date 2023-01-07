@@ -515,5 +515,9 @@ ul.F_Sec_List li i {
     border-radius: 9px;
 }
 
+.subs_btn {
+    font-size: 16px;
+    padding: 13px 30px;
+}
 
 /* Footer End */
